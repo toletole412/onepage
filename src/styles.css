@@ -1,0 +1,24 @@
+html {
+ background: ;
+
+ height: 50%;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+.text-container {
+ max-width: 960px;
+ position: absolute;
+ top: 100;
+ left: 200;
+}
+
+h1 {
+ font-family: 'Roboto', sans-serif;
+ color: #fff;
+ font-size: 156px;
+ text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
+ text-transform: uppercase;
+}
