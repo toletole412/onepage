@@ -40,8 +40,8 @@ const styles = theme => ({
     backgroundColor: "#ffcc00",
     height: 530,
     width: 800,
-    marginTop: 300,
-    marginLeft: 500
+    marginTop: 400,
+    marginLeft: 550
   }),
   wrapper: {
     backgroundColor: "#ffffff"
