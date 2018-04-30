@@ -36,13 +36,13 @@ const styles = theme => ({
   button: {
     height: 50
   },
-  div: {
+  div: theme.mixins.gutters({
     backgroundColor: "#ffcc00",
-    height: 500,
+    height: 530,
     width: 800,
-    marginTop: 400,
-    marginLeft: 600
-  },
+    marginTop: 300,
+    marginLeft: 500
+  }),
   wrapper: {
     backgroundColor: "#ffffff"
   }
@@ -59,12 +59,12 @@ class Cards extends PureComponent {
   return (
     <div>
       <Paper className={classes.root} elevation={4}>
-      <div className={classes.div}>
+      <Paper className={classes.div}>
       <div className={classes.text}>
         <h2>Frontend<br/>
         Developer</h2>
       </div>
-      </div>
+      </Paper>
       <div className={classes.wrapper}>
           <Card className={classes.card}>
             <CardMedia
