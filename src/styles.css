@@ -18,7 +18,7 @@ html {
 h1 {
  font-family: 'Roboto', sans-serif;
  color: #ffcc00;
- font-size: 156px;
+ font-size: 130px;
  text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
  text-transform: uppercase;
 }
@@ -26,7 +26,7 @@ h1 {
 h2 {
  font-family: 'Roboto', sans-serif;
  color: #0033ff;
- font-size: 156px;
+ font-size: 130px;
  text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
  text-transform: uppercase;
  margin-left: 0;

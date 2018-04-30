@@ -38,14 +38,13 @@ const styles = theme => ({
   },
   div: {
     backgroundColor: "#ffcc00",
-    height: 600,
-    width: 1000,
-    marginTop: 600,
-    marginLeft: 900
+    height: 500,
+    width: 800,
+    marginTop: 500,
+    marginLeft: 800
   },
   wrapper: {
     backgroundColor: "#ffffff"
-
   }
 });
 
