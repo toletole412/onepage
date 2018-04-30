@@ -22,3 +22,12 @@ h1 {
  text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
  text-transform: uppercase;
 }
+
+h2 {
+ font-family: 'Roboto', sans-serif;
+ color: #0033ff;
+ font-size: 156px;
+ text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
+ text-transform: uppercase;
+ margin-left: 0;
+}
