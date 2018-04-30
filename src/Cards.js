@@ -13,7 +13,7 @@ const styles = theme => ({
     paddingLeft: 16,
     paddingRight: 16,
     marginTop: theme.spacing.unit * 3,
-    backgroundColor: "#F1F1F2"
+    backgroundColor: "#0033ff"
   }),
   icon: {
     margin: theme.spacing.unit,
@@ -25,12 +25,12 @@ const styles = theme => ({
     paddingTop: '56.25%', // 16:9
   },
   card: {
-    width: 500,
+    width: 400,
     margin: 30,
     display: "inline-block",
     paddingTop: 16,
     paddingBottom: 16,
-    marginTop: theme.spacing.unit * 3
+    marginTop: 300
   },
   button: {
     height: 50
